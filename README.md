@@ -1,2 +1,2 @@
-# ai4forgood2016
+# ai4forgood2020
 AI For Good hackaton by TechAid
